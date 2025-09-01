@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22071963/README.md)
 # Exploration Checklist
 
 This repository contains a structured checklist for exploring and analyzing different platforms, tools, and concepts.
