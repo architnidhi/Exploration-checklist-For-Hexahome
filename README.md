@@ -20,5 +20,4 @@ This repository contains a structured checklist for exploring and analyzing diff
 3. Mark the checkboxes and add notes during your exploration.
 4. Use it as a structured guide for website reviews, blog analysis, GitHub practice, and SEO learning.
 
----
-⭐ If you find this useful, feel free to fork the repo and contribute!
+
